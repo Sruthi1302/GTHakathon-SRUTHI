@@ -1,0 +1,8 @@
+store_id,product,size,in_stock
+s1,Hot Cocoa,Regular,1
+s1,Hot Cocoa,Large,1
+s1,Cold Coffee,Regular,1
+s2,Cold Coffee,Regular,1
+s2,Cappuccino,Regular,1
+s3,Hot Cocoa,Regular,0
+s3,Cappuccino,Large,1

@@ -1,0 +1,5 @@
+offer_id,description,store_id,product,discount_percent,expiry_date
+o1,Get 10% off on Hot Cocoa today at Starbucks Gachibowli,s1,Hot Cocoa,10,2025-12-31
+o2,Flat 15% off on Cold Coffee for loyalty customers at Hitech City,s2,Cold Coffee,15,2025-12-31
+o3,Buy 1 Cappuccino and get 50% off on the second at Kukatpally,s3,Cappuccino,50,2025-12-31
+o4,Weekend offer: 5% off any hot beverage at all stores,ALL,Any Hot,5,2025-12-31

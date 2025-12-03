@@ -1,0 +1,4 @@
+store_id,name,latitude,longitude,open_time,close_time
+s1,Starbucks Gachibowli,17.4400,78.3800,08:00,22:30
+s2,Starbucks Hitech City,17.4500,78.3900,09:00,23:00
+s3,Starbucks Kukatpally,17.4900,78.4100,10:00,21:00
